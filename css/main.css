@@ -1,0 +1,29 @@
+h1{
+  font-size: 50px;
+  color: blue;
+  margin: 100px;
+  text-align: center;
+}
+
+.word{
+  font-size: 65px;
+  margin: 100px;
+  text-align: center;
+}
+
+.letter-guess{
+  font-size: 40px;
+  margin: 20px;
+  text-align: center;
+}
+
+input{
+  line-height: 30px;
+  vertical-align: middle;
+}
+
+.turnsLeft{
+  font-size: 30px;
+  margin: 10px;
+  text-align: center;
+}
