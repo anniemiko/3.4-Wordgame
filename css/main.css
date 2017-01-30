@@ -19,7 +19,14 @@ h1{
 
 input{
   line-height: 30px;
+  font-size: 30px;
+  padding-left: 10px;
   vertical-align: middle;
+}
+
+button{
+  margin-top: 10px;
+  font-size: 20px;
 }
 
 .turnsLeft{
